@@ -13,3 +13,5 @@ function moyenne($note)
 }
 
 echo moyenne($notes);
+
+// test
